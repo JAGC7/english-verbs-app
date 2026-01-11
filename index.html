@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verb Master App</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">  
+    <script src="https://code.responsivevoice.org/responsivevoice.js?key=yYOPruMq"></script>  
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./css/game.css">
+    <script src="./js/main.js" type="module"></script>    
+    <script src="./js/clean-body.js"></script>
+</head>
+<body>
+
+    <header class="main-header">
+        <h1>Practicar verbos en inglés</h1>
+    </header>
+
+    <main class="top-dashboard">
+        <div class="control-group">
+            <h2 class="mini-title">Regular Verbs</h2>
+            <div class="button-row">
+                <button id="reg-word" class="btn btn-sm btn-dark">Word</button>
+                <button id="reg-translate" class="btn btn-sm btn-dark">Translate</button>
+                <button id="reg-third" class="btn btn-sm btn-light">ThirdPerson</button>
+                <button id="reg-past" class="btn btn-sm btn-light">Past</button>
+                <button id="reg-participle" class="btn btn-sm btn-light">Past Participle</button>
+                <button id="reg-gerund" class="btn btn-sm btn-light">Gerundio</button>
+            </div>
+        </div>
+
+        <div class="control-group">
+            <h2 class="mini-title">Irregular Verbs</h2>
+            <div class="button-row">
+                <button id="irr-word" class="btn btn-sm btn-dark">Word</button>
+                <button id="irr-translate" class="btn btn-sm btn-dark">Translate</button>
+                <button id="irr-third" class="btn btn-sm btn-light">ThirdPerson</button>
+                <button id="irr-past" class="btn btn-sm btn-light">Past</button>
+                <button id="irr-participle" class="btn btn-sm btn-light">Past Participle</button>
+                <button id="irr-gerund" class="btn btn-sm btn-light">Gerundio</button>
+            </div>
+        </div>
+
+        <div class="control-group actions-group">
+            <h2 class="mini-title">Opciones</h2>
+            <div class="button-row vertical">
+                <button id="btn-tipo" class="btn btn-sm btn-type">Tipo de Verbo</button>
+                <button id="btn-limpiar" class="btn btn-sm btn-clear">
+                    <i class="fas fa-broom"></i> Limpiar Body
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <section class="main-content-area" id="main-content">
+        <div class="placeholder-text">El contenido principal aparecerá aquí...</div>
+    </section>
+
+</body>
+</html>

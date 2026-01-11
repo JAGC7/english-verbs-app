@@ -1,0 +1,124 @@
+:root {
+    --bg-main: #f8f9fa;
+    --primary: #4834d4;
+    --regular-color: #eb4d4b;
+    --irregular-color: #686de0;
+    --special-blue: #22a6b3;
+    --clear-color: #535c68;
+    --type-color: #f0932b; /* Color naranja vibrante para "Tipo de Verbo" */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: var(--bg-main);
+}
+
+.main-header {
+    padding: 15px;
+    text-align: center;
+    background: white;
+}
+
+h1 {
+    font-size: 1.2rem;
+    color: #2d3436;
+    font-weight: 700;
+}
+
+/* DASHBOARD SUPERIOR COMPACTO */
+.top-dashboard {
+    display: grid;
+    grid-template-columns: 1fr 1fr 200px; /* Divide en 3 columnas */
+    gap: 20px;
+    padding: 15px 25px;
+    background: white;
+    border-bottom: 1px solid #dfe6e9;
+    align-items: start;
+}
+
+.mini-title {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    color: #95a5a6;
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+}
+
+/* Fila de botones pequeña */
+.button-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.button-row.vertical {
+    flex-direction: column;
+}
+
+/* BOTONES MINI */
+.btn-sm {
+    padding: 6px 10px;
+    font-size: 0.7rem;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+
+.btn-light {
+    background-color: #f1f2f6;
+    color: #2f3542;
+}
+
+.btn-dark {
+    background-color: var(--special-blue);
+    color: white;
+}
+
+/* BOTONES ESPECIALES */
+.btn-type {
+    background-color: var(--type-color);
+    color: white;
+    width: 100%;
+}
+
+.btn-clear {
+    background-color: var(--clear-color);
+    color: white;
+    width: 100%;
+}
+
+.btn-sm:hover {
+    filter: brightness(0.9);
+    transform: translateY(-1px);
+}
+
+/* AREA DE CONTENIDO */
+.main-content-area {
+    padding: 40px;
+    min-height: 60vh;
+}
+
+.placeholder-text {
+    grid-column: 1 / -1; /* Ocupa las 5 columnas, igual que el título */
+    text-align: center;
+    padding: 100px 0; /* Espacio para que no se pegue arriba */
+    color: #94a3b8;
+    font-style: italic;
+    font-size: 1.2rem;
+    width: 100%; /* Asegura que use todo el ancho para poder centrar */
+}
+
+/* RESPONSIVE: Si la pantalla es pequeña, se apilan */
+@media (max-width: 900px) {
+    .top-dashboard {
+        grid-template-columns: 1fr;
+    }
+}

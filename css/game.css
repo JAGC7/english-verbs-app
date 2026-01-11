@@ -1,0 +1,77 @@
+/* CONTENEDOR PRINCIPAL */
+.game-container {
+    grid-column: 1 / -1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+    width: 100%;
+    animation: fadeIn 0.4s ease;
+}
+
+/* FILA DE PUNTOS ALINEADA (Simetría) */
+.game-score-row {
+    display: flex;
+    justify-content: space-between; /* Alineación a los extremos */
+    width: 100%;
+    max-width: 500px;
+}
+
+.score-pill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 120px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.score-pill .label { font-size: 0.7rem; font-weight: bold; letter-spacing: 1px; }
+.score-pill .value { font-size: 2rem; font-weight: 900; }
+
+.score-pill.success { color: #2ecc71; border-bottom: 4px solid #2ecc71; }
+.score-pill.danger { color: #e74c3c; border-bottom: 4px solid #e74c3c; }
+
+/* TARJETA DEL VERBO */
+.verb-card {
+    background: white;
+    padding: 60px;
+    border-radius: 35px;
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+}
+
+#target-verb { font-size: 3rem; color: #2d3436; margin: 0; text-transform: uppercase; }
+
+/* FEEDBACK VISUAL */
+.verb-card.success { background: #f0fff4; transform: scale(1.03); border: 2px solid #2ecc71; }
+.verb-card.danger { background: #fff5f5; animation: shake 0.4s; border: 2px solid #e74c3c; }
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-10px); }
+    75% { transform: translateX(10px); }
+}
+
+/* BOTONES */
+.game-actions { display: flex; gap: 20px; }
+.game-btn {
+    padding: 18px 45px;
+    border: none;
+    border-radius: 50px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+    transition: 0.2s;
+}
+.btn-reg { background: #6c5ce7; }
+.btn-irr { background: #a29bfe; }
+.game-btn:hover { transform: translateY(-3px); filter: brightness(1.1); }

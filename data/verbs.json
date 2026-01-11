@@ -1,0 +1,2606 @@
+{
+  "regular": [
+    {
+      "word": "Accept",
+      "translateWord": "Aceptar",
+      "thirdPerson": "accepts",
+      "past": "accepted",
+      "pastParticiple": "accepted",
+      "gerund": "accepting"
+    },
+    {
+      "word": "Achieve",
+      "translateWord": "Lograr",
+      "thirdPerson": "achieves",
+      "past": "achieved",
+      "pastParticiple": "achieved",
+      "gerund": "achieving"
+    },
+    {
+      "word": "Act",
+      "translateWord": "Actuar",
+      "thirdPerson": "acts",
+      "past": "acted",
+      "pastParticiple": "acted",
+      "gerund": "acting"
+    },
+    {
+      "word": "Add",
+      "translateWord": "Agregar",
+      "thirdPerson": "adds",
+      "past": "added",
+      "pastParticiple": "added",
+      "gerund": "adding"
+    },
+    {
+      "word": "Admit",
+      "translateWord": "Admitir",
+      "thirdPerson": "admits",
+      "past": "admitted",
+      "pastParticiple": "admitted",
+      "gerund": "admitting"
+    },
+    {
+      "word": "Agree",
+      "translateWord": "Acordar",
+      "thirdPerson": "agrees",
+      "past": "agreed",
+      "pastParticiple": "agreed",
+      "gerund": "agreeing"
+    },
+    {
+      "word": "Allow",
+      "translateWord": "Permitir",
+      "thirdPerson": "allows",
+      "past": "allowed",
+      "pastParticiple": "allowed",
+      "gerund": "allowing"
+    },
+    {
+      "word": "Announce",
+      "translateWord": "Anunciar",
+      "thirdPerson": "announces",
+      "past": "announced",
+      "pastParticiple": "announced",
+      "gerund": "announcing"
+    },
+    {
+      "word": "Annoy",
+      "translateWord": "Irritar",
+      "thirdPerson": "annoys",
+      "past": "annoyed",
+      "pastParticiple": "annoyed",
+      "gerund": "annoying"
+    },
+    {
+      "word": "Answer",
+      "translateWord": "Contestar",
+      "thirdPerson": "answers",
+      "past": "answered",
+      "pastParticiple": "answered",
+      "gerund": "answering"
+    },
+    {
+      "word": "Appeal",
+      "translateWord": "Atraer",
+      "thirdPerson": "appeals",
+      "past": "appealed",
+      "pastParticiple": "appealed",
+      "gerund": "appealing"
+    },
+    {
+      "word": "Appear",
+      "translateWord": "Aparecer",
+      "thirdPerson": "appears",
+      "past": "appeared",
+      "pastParticiple": "appeared",
+      "gerund": "appearing"
+    },
+    {
+      "word": "Argue",
+      "translateWord": "Discutir",
+      "thirdPerson": "argues",
+      "past": "argued",
+      "pastParticiple": "argued",
+      "gerund": "arguing"
+    },
+    {
+      "word": "Arrange",
+      "translateWord": "Arreglar/Ordenar",
+      "thirdPerson": "arranges",
+      "past": "arranged",
+      "pastParticiple": "arranged",
+      "gerund": "arranging"
+    },
+    {
+      "word": "Arrive",
+      "translateWord": "Llegar",
+      "thirdPerson": "arrives",
+      "past": "arrived",
+      "pastParticiple": "arrived",
+      "gerund": "arriving"
+    },
+    {
+      "word": "Ask",
+      "translateWord": "Preguntar",
+      "thirdPerson": "asks",
+      "past": "asked",
+      "pastParticiple": "asked",
+      "gerund": "asking"
+    },
+    {
+      "word": "Assume",
+      "translateWord": "Asumir",
+      "thirdPerson": "assumes",
+      "past": "assumed",
+      "pastParticiple": "assumed",
+      "gerund": "assuming"
+    },
+    {
+      "word": "Attack",
+      "translateWord": "Atacar",
+      "thirdPerson": "attacks",
+      "past": "attacked",
+      "pastParticiple": "attacked",
+      "gerund": "attacking"
+    },
+    {
+      "word": "Attend",
+      "translateWord": "Asistir a",
+      "thirdPerson": "attends",
+      "past": "attended",
+      "pastParticiple": "attended",
+      "gerund": "attending"
+    },
+    {
+      "word": "Avoid",
+      "translateWord": "Evitar",
+      "thirdPerson": "avoids",
+      "past": "avoided",
+      "pastParticiple": "avoided",
+      "gerund": "avoiding"
+    },
+    {
+      "word": "Balance",
+      "translateWord": "Equilibrar",
+      "thirdPerson": "balances",
+      "past": "balanced",
+      "pastParticiple": "balanced",
+      "gerund": "balancing"
+    },
+    {
+      "word": "Bark",
+      "translateWord": "Ladrar",
+      "thirdPerson": "barks",
+      "past": "barked",
+      "pastParticiple": "barked",
+      "gerund": "barking"
+    },
+    {
+      "word": "Beg",
+      "translateWord": "Suplicar/Mendigar",
+      "thirdPerson": "begs",
+      "past": "begged",
+      "pastParticiple": "begged",
+      "gerund": "begging"
+    },
+    {
+      "word": "Behave",
+      "translateWord": "Comportarse",
+      "thirdPerson": "behaves",
+      "past": "behaved",
+      "pastParticiple": "behaved",
+      "gerund": "behaving"
+    },
+    {
+      "word": "Believe",
+      "translateWord": "Creer",
+      "thirdPerson": "believes",
+      "past": "believed",
+      "pastParticiple": "believed",
+      "gerund": "believing"
+    },
+    {
+      "word": "Belong",
+      "translateWord": "Pertenecer",
+      "thirdPerson": "belongs",
+      "past": "belonged",
+      "pastParticiple": "belonged",
+      "gerund": "belonging"
+    },
+    {
+      "word": "Bless",
+      "translateWord": "Bendecir",
+      "thirdPerson": "blesses",
+      "past": "blessed",
+      "pastParticiple": "blessed",
+      "gerund": "blessing"
+    },
+    {
+      "word": "Boil",
+      "translateWord": "Hervir",
+      "thirdPerson": "boils",
+      "past": "boiled",
+      "pastParticiple": "boiled",
+      "gerund": "boiling"
+    },
+    {
+      "word": "Borrow",
+      "translateWord": "Pedir prestado",
+      "thirdPerson": "borrows",
+      "past": "borrowed",
+      "pastParticiple": "borrowed",
+      "gerund": "borrowing"
+    },
+    {
+      "word": "Bother",
+      "translateWord": "Molestar",
+      "thirdPerson": "bothers",
+      "past": "bothered",
+      "pastParticiple": "bothered",
+      "gerund": "bothering"
+    },
+    {
+      "word": "Breakfast",
+      "translateWord": "Desayunar",
+      "thirdPerson": "breakfasts",
+      "past": "breakfasted",
+      "pastParticiple": "breakfasted",
+      "gerund": "breakfasting"
+    },
+    {
+      "word": "Breathe",
+      "translateWord": "Respirar",
+      "thirdPerson": "breathes",
+      "past": "breathed",
+      "pastParticiple": "breathed",
+      "gerund": "breathing"
+    },
+    {
+      "word": "Brush",
+      "translateWord": "Cepillar",
+      "thirdPerson": "brushes",
+      "past": "brushed",
+      "pastParticiple": "brushed",
+      "gerund": "brushing"
+    },
+    {
+      "word": "Burn",
+      "translateWord": "Quemar",
+      "thirdPerson": "burns",
+      "past": "burned/burnt",
+      "pastParticiple": "burned/burnt",
+      "gerund": "burning"
+    },
+    {
+      "word": "Call",
+      "translateWord": "Llamar",
+      "thirdPerson": "calls",
+      "past": "called",
+      "pastParticiple": "called",
+      "gerund": "calling"
+    },
+    {
+      "word": "Cancel",
+      "translateWord": "Cancelar",
+      "thirdPerson": "cancels",
+      "past": "canceled/cancelled",
+      "pastParticiple": "canceled/cancelled",
+      "gerund": "canceling/cancelling"
+    },
+    {
+      "word": "Care",
+      "translateWord": "Preocuparse",
+      "thirdPerson": "cares",
+      "past": "cared",
+      "pastParticiple": "cared",
+      "gerund": "caring"
+    },
+    {
+      "word": "Carry",
+      "translateWord": "Cargar",
+      "thirdPerson": "carries",
+      "past": "carried",
+      "pastParticiple": "carried",
+      "gerund": "carrying"
+    },
+    {
+      "word": "Cause",
+      "translateWord": "Causar",
+      "thirdPerson": "causes",
+      "past": "caused",
+      "pastParticiple": "caused",
+      "gerund": "causing"
+    },
+    {
+      "word": "Change",
+      "translateWord": "Cambiar",
+      "thirdPerson": "changes",
+      "past": "changed",
+      "pastParticiple": "changed",
+      "gerund": "changing"
+    },
+    {
+      "word": "Cheat",
+      "translateWord": "Engañar/Hacer trampa",
+      "thirdPerson": "cheats",
+      "past": "cheated",
+      "pastParticiple": "cheated",
+      "gerund": "cheating"
+    },
+    {
+      "word": "Check",
+      "translateWord": "Comprobar",
+      "thirdPerson": "checks",
+      "past": "checked",
+      "pastParticiple": "checked",
+      "gerund": "checking"
+    },
+    {
+      "word": "Clap",
+      "translateWord": "Aplaudir",
+      "thirdPerson": "claps",
+      "past": "clapped",
+      "pastParticiple": "clapped",
+      "gerund": "clapping"
+    },
+    {
+      "word": "Clean",
+      "translateWord": "Limpiar",
+      "thirdPerson": "cleans",
+      "past": "cleaned",
+      "pastParticiple": "cleaned",
+      "gerund": "cleaning"
+    },
+    {
+      "word": "Close",
+      "translateWord": "Cerrar",
+      "thirdPerson": "closes",
+      "past": "closed",
+      "pastParticiple": "closed",
+      "gerund": "closing"
+    },
+    {
+      "word": "Comb",
+      "translateWord": "Peinar",
+      "thirdPerson": "combs",
+      "past": "combed",
+      "pastParticiple": "combed",
+      "gerund": "combing"
+    },
+    {
+      "word": "Commit",
+      "translateWord": "Cometer",
+      "thirdPerson": "commits",
+      "past": "committed",
+      "pastParticiple": "committed",
+      "gerund": "committing"
+    },
+    {
+      "word": "Compare",
+      "translateWord": "Comparar",
+      "thirdPerson": "compares",
+      "past": "compared",
+      "pastParticiple": "compared",
+      "gerund": "comparing"
+    },
+    {
+      "word": "Connect",
+      "translateWord": "Conectar",
+      "thirdPerson": "connects",
+      "past": "connected",
+      "pastParticiple": "connected",
+      "gerund": "connecting"
+    },
+    {
+      "word": "Consider",
+      "translateWord": "Considerar",
+      "thirdPerson": "considers",
+      "past": "considered",
+      "pastParticiple": "considered",
+      "gerund": "considering"
+    },
+    {
+      "word": "Contain",
+      "translateWord": "Contener",
+      "thirdPerson": "contains",
+      "past": "contained",
+      "pastParticiple": "contained",
+      "gerund": "containing"
+    },
+    {
+      "word": "Continue",
+      "translateWord": "Continuar",
+      "thirdPerson": "continues",
+      "past": "continued",
+      "pastParticiple": "continued",
+      "gerund": "continuing"
+    },
+    {
+      "word": "Control",
+      "translateWord": "Controlar",
+      "thirdPerson": "controls",
+      "past": "controlled",
+      "pastParticiple": "controlled",
+      "gerund": "controlling"
+    },
+    {
+      "word": "Cook",
+      "translateWord": "Cocinar",
+      "thirdPerson": "cooks",
+      "past": "cooked",
+      "pastParticiple": "cooked",
+      "gerund": "cooking"
+    },
+    {
+      "word": "Crash",
+      "translateWord": "Chocar",
+      "thirdPerson": "crashes",
+      "past": "crashed",
+      "pastParticiple": "crashed",
+      "gerund": "crashing"
+    },
+    {
+      "word": "Create",
+      "translateWord": "Crear",
+      "thirdPerson": "creates",
+      "past": "created",
+      "pastParticiple": "created",
+      "gerund": "creating"
+    },
+    {
+      "word": "Cry",
+      "translateWord": "Llorar",
+      "thirdPerson": "cries",
+      "past": "cried",
+      "pastParticiple": "cried",
+      "gerund": "crying"
+    },
+    {
+      "word": "Dance",
+      "translateWord": "Bailar",
+      "thirdPerson": "dances",
+      "past": "danced",
+      "pastParticiple": "danced",
+      "gerund": "dancing"
+    },
+    {
+      "word": "Dare",
+      "translateWord": "Atreverse",
+      "thirdPerson": "dares",
+      "past": "dared",
+      "pastParticiple": "dared",
+      "gerund": "daring"
+    },
+    {
+      "word": "Decide",
+      "translateWord": "Decidir",
+      "thirdPerson": "decides",
+      "past": "decided",
+      "pastParticiple": "decided",
+      "gerund": "deciding"
+    },
+    {
+      "word": "Describe",
+      "translateWord": "Describir",
+      "thirdPerson": "describes",
+      "past": "described",
+      "pastParticiple": "described",
+      "gerund": "describing"
+    },
+    {
+      "word": "Design",
+      "translateWord": "Diseñar",
+      "thirdPerson": "designs",
+      "past": "designed",
+      "pastParticiple": "designed",
+      "gerund": "designing"
+    },
+    {
+      "word": "Dial",
+      "translateWord": "Marcar (teléfono)",
+      "thirdPerson": "dials",
+      "past": "dialed",
+      "pastParticiple": "dialed",
+      "gerund": "dialing"
+    },
+    {
+      "word": "Die",
+      "translateWord": "Morir",
+      "thirdPerson": "dies",
+      "past": "died",
+      "pastParticiple": "died",
+      "gerund": "dying"
+    },
+    {
+      "word": "Dine",
+      "translateWord": "Cenar",
+      "thirdPerson": "dines",
+      "past": "dined",
+      "pastParticiple": "dined",
+      "gerund": "dining"
+    },
+    {
+      "word": "Discover",
+      "translateWord": "Descubrir",
+      "thirdPerson": "discovers",
+      "past": "discovered",
+      "pastParticiple": "discovered",
+      "gerund": "discovering"
+    },
+    {
+      "word": "Discuss",
+      "translateWord": "Discutir",
+      "thirdPerson": "discusses",
+      "past": "discussed",
+      "pastParticiple": "discussed",
+      "gerund": "discussing"
+    },
+    {
+      "word": "Dream",
+      "translateWord": "Soñar",
+      "thirdPerson": "dreams",
+      "past": "dreamed",
+      "pastParticiple": "dreamed",
+      "gerund": "dreaming"
+    },
+    {
+      "word": "Drop",
+      "translateWord": "Dejar caer",
+      "thirdPerson": "drops",
+      "past": "dropped",
+      "pastParticiple": "dropped",
+      "gerund": "dropping"
+    },
+    {
+      "word": "Dry",
+      "translateWord": "Secar",
+      "thirdPerson": "dries",
+      "past": "dried",
+      "pastParticiple": "dried",
+      "gerund": "drying"
+    },
+    {
+      "word": "Earn",
+      "translateWord": "Ganarse",
+      "thirdPerson": "earns",
+      "past": "earned",
+      "pastParticiple": "earned",
+      "gerund": "earning"
+    },
+    {
+      "word": "Enjoy",
+      "translateWord": "Disfrutar",
+      "thirdPerson": "enjoys",
+      "past": "enjoyed",
+      "pastParticiple": "enjoyed",
+      "gerund": "enjoying"
+    },
+    {
+      "word": "Enter",
+      "translateWord": "Entrar",
+      "thirdPerson": "enters",
+      "past": "entered",
+      "pastParticiple": "entered",
+      "gerund": "entering"
+    },
+    {
+      "word": "Excuse",
+      "translateWord": "Disculpar",
+      "thirdPerson": "excuses",
+      "past": "excused",
+      "pastParticiple": "excused",
+      "gerund": "excusing"
+    },
+    {
+      "word": "Expect",
+      "translateWord": "Esperar",
+      "thirdPerson": "expects",
+      "past": "expected",
+      "pastParticiple": "expected",
+      "gerund": "expecting"
+    },
+    {
+      "word": "Explain",
+      "translateWord": "Explicar",
+      "thirdPerson": "explains",
+      "past": "explained",
+      "pastParticiple": "explained",
+      "gerund": "explaining"
+    },
+    {
+      "word": "Express",
+      "translateWord": "Expresar",
+      "thirdPerson": "expresses",
+      "past": "expressed",
+      "pastParticiple": "expressed",
+      "gerund": "expressing"
+    },
+    {
+      "word": "Face",
+      "translateWord": "Enfrentar",
+      "thirdPerson": "faces",
+      "past": "faced",
+      "pastParticiple": "faced",
+      "gerund": "facing"
+    },
+    {
+      "word": "Fail",
+      "translateWord": "Fracasar",
+      "thirdPerson": "fails",
+      "past": "failed",
+      "pastParticiple": "failed",
+      "gerund": "failing"
+    },
+    {
+      "word": "Fear",
+      "translateWord": "Temer",
+      "thirdPerson": "fears",
+      "past": "feared",
+      "pastParticiple": "feared",
+      "gerund": "fearing"
+    },
+    {
+      "word": "Fill",
+      "translateWord": "Llenar",
+      "thirdPerson": "fills",
+      "past": "filled",
+      "pastParticiple": "filled",
+      "gerund": "filling"
+    },
+    {
+      "word": "Finish",
+      "translateWord": "Terminar",
+      "thirdPerson": "finishes",
+      "past": "finished",
+      "pastParticiple": "finished",
+      "gerund": "finishing"
+    },
+    {
+      "word": "Fix",
+      "translateWord": "Reparar",
+      "thirdPerson": "fixes",
+      "past": "fixed",
+      "pastParticiple": "fixed",
+      "gerund": "fixing"
+    },
+    {
+      "word": "Follow",
+      "translateWord": "Seguir",
+      "thirdPerson": "follows",
+      "past": "followed",
+      "pastParticiple": "followed",
+      "gerund": "following"
+    },
+    {
+      "word": "Force",
+      "translateWord": "Forzar",
+      "thirdPerson": "forces",
+      "past": "forced",
+      "pastParticiple": "forced",
+      "gerund": "forcing"
+    },
+    {
+      "word": "Fry",
+      "translateWord": "Freír",
+      "thirdPerson": "fries",
+      "past": "fried",
+      "pastParticiple": "fried",
+      "gerund": "frying"
+    },
+    {
+      "word": "Guess",
+      "translateWord": "Adivinar",
+      "thirdPerson": "guesses",
+      "past": "guessed",
+      "pastParticiple": "guessed",
+      "gerund": "guessing"
+    },
+    {
+      "word": "Handle",
+      "translateWord": "Encargarse de",
+      "thirdPerson": "handles",
+      "past": "handled",
+      "pastParticiple": "handled",
+      "gerund": "handling"
+    },
+    {
+      "word": "Hate",
+      "translateWord": "Odiar",
+      "thirdPerson": "hates",
+      "past": "hated",
+      "pastParticiple": "hated",
+      "gerund": "hating"
+    },
+    {
+      "word": "Help",
+      "translateWord": "Ayuda",
+      "thirdPerson": "helps",
+      "past": "helped",
+      "pastParticiple": "helped",
+      "gerund": "helping"
+    },
+    {
+      "word": "Hope",
+      "translateWord": "Esperar",
+      "thirdPerson": "hopes",
+      "past": "hoped",
+      "pastParticiple": "hoped",
+      "gerund": "hoping"
+    },
+    {
+      "word": "Hug",
+      "translateWord": "Abrazar",
+      "thirdPerson": "hugs",
+      "past": "hugged",
+      "pastParticiple": "hugged",
+      "gerund": "hugging"
+    },
+    {
+      "word": "Imagine",
+      "translateWord": "Imaginar",
+      "thirdPerson": "imagines",
+      "past": "imagined",
+      "pastParticiple": "imagined",
+      "gerund": "imagining"
+    },
+    {
+      "word": "Improve",
+      "translateWord": "Mejorar",
+      "thirdPerson": "improves",
+      "past": "improved",
+      "pastParticiple": "improved",
+      "gerund": "improving"
+    },
+    {
+      "word": "Include",
+      "translateWord": "Incluir",
+      "thirdPerson": "includes",
+      "past": "included",
+      "pastParticiple": "included",
+      "gerund": "including"
+    },
+    {
+      "word": "Increase",
+      "translateWord": "Aumentar",
+      "thirdPerson": "increases",
+      "past": "increased",
+      "pastParticiple": "increased",
+      "gerund": "increasing"
+    },
+    {
+      "word": "Iron",
+      "translateWord": "Planchar",
+      "thirdPerson": "irons",
+      "past": "ironed",
+      "pastParticiple": "ironed",
+      "gerund": "ironing"
+    },
+    {
+      "word": "Join",
+      "translateWord": "Unir",
+      "thirdPerson": "joins",
+      "past": "joined",
+      "pastParticiple": "joined",
+      "gerund": "joining"
+    },
+    {
+      "word": "Jump",
+      "translateWord": "Brincar",
+      "thirdPerson": "jumps",
+      "past": "jumped",
+      "pastParticiple": "jumped",
+      "gerund": "jumping"
+    },
+    {
+      "word": "Kill",
+      "translateWord": "Matar",
+      "thirdPerson": "kills",
+      "past": "killed",
+      "pastParticiple": "killed",
+      "gerund": "killing"
+    },
+    {
+      "word": "Knock",
+      "translateWord": "Golpear",
+      "thirdPerson": "knocks",
+      "past": "knocked",
+      "pastParticiple": "knocked",
+      "gerund": "knocking"
+    },
+    {
+      "word": "Laugh",
+      "translateWord": "Reír",
+      "thirdPerson": "laughs",
+      "past": "laughed",
+      "pastParticiple": "laughed",
+      "gerund": "laughing"
+    },
+    {
+      "word": "Lay",
+      "translateWord": "Poner",
+      "thirdPerson": "lays",
+      "past": "laid",
+      "pastParticiple": "laid",
+      "gerund": "laying"
+    },
+    {
+      "word": "Learn",
+      "translateWord": "Aprender",
+      "thirdPerson": "learns",
+      "past": "learned/learnt",
+      "pastParticiple": "learned/learnt",
+      "gerund": "learning"
+    },
+    {
+      "word": "Lie",
+      "translateWord": "Mentir",
+      "thirdPerson": "lies",
+      "past": "lied",
+      "pastParticiple": "lied",
+      "gerund": "lying"
+    },
+    {
+      "word": "Light",
+      "translateWord": "Prender/Encender",
+      "thirdPerson": "lights",
+      "past": "lit/lighted",
+      "pastParticiple": "lit/lighted",
+      "gerund": "lighting"
+    },
+    {
+      "word": "Like",
+      "translateWord": "Gustar",
+      "thirdPerson": "likes",
+      "past": "liked",
+      "pastParticiple": "liked",
+      "gerund": "liking"
+    },
+    {
+      "word": "Listen",
+      "translateWord": "Escuchar (Acción)",
+      "thirdPerson": "listens",
+      "past": "listened",
+      "pastParticiple": "listened",
+      "gerund": "listening"
+    },
+    {
+      "word": "Live",
+      "translateWord": "Vivir",
+      "thirdPerson": "lives",
+      "past": "lived",
+      "pastParticiple": "lived",
+      "gerund": "living"
+    },
+    {
+      "word": "Look",
+      "translateWord": "Ver",
+      "thirdPerson": "looks",
+      "past": "looked",
+      "pastParticiple": "looked",
+      "gerund": "looking"
+    },
+    {
+      "word": "Love",
+      "translateWord": "Amar",
+      "thirdPerson": "loves",
+      "past": "loved",
+      "pastParticiple": "loved",
+      "gerund": "loving"
+    },
+    {
+      "word": "Manage",
+      "translateWord": "Manejar",
+      "thirdPerson": "manages",
+      "past": "managed",
+      "pastParticiple": "managed",
+      "gerund": "managing"
+    },
+    {
+      "word": "Mark",
+      "translateWord": "Marcar",
+      "thirdPerson": "marks",
+      "past": "marked",
+      "pastParticiple": "marked",
+      "gerund": "marking"
+    },
+    {
+      "word": "Marry",
+      "translateWord": "Casarse",
+      "thirdPerson": "marries",
+      "past": "married",
+      "pastParticiple": "married",
+      "gerund": "marrying"
+    },
+    {
+      "word": "Measure",
+      "translateWord": "Medir",
+      "thirdPerson": "measures",
+      "past": "measured",
+      "pastParticiple": "measured",
+      "gerund": "measuring"
+    },
+    {
+      "word": "Miss",
+      "translateWord": "Extrañar",
+      "thirdPerson": "misses",
+      "past": "missed",
+      "pastParticiple": "missed",
+      "gerund": "missing"
+    },
+    {
+      "word": "Move",
+      "translateWord": "Mover",
+      "thirdPerson": "moves",
+      "past": "moved",
+      "pastParticiple": "moved",
+      "gerund": "moving"
+    },
+    {
+      "word": "Need",
+      "translateWord": "Necesitar",
+      "thirdPerson": "needs",
+      "past": "needed",
+      "pastParticiple": "needed",
+      "gerund": "needing"
+    },
+    {
+      "word": "Observe",
+      "translateWord": "Observar",
+      "thirdPerson": "observes",
+      "past": "observed",
+      "pastParticiple": "observed",
+      "gerund": "observing"
+    },
+    {
+      "word": "Obtain",
+      "translateWord": "Obtener",
+      "thirdPerson": "obtains",
+      "past": "obtained",
+      "pastParticiple": "obtained",
+      "gerund": "obtaining"
+    },
+    {
+      "word": "Offer",
+      "translateWord": "Ofrecer",
+      "thirdPerson": "offers",
+      "past": "offered",
+      "pastParticiple": "offered",
+      "gerund": "offering"
+    },
+    {
+      "word": "Open",
+      "translateWord": "Abrir",
+      "thirdPerson": "opens",
+      "past": "opened",
+      "pastParticiple": "opened",
+      "gerund": "opening"
+    },
+    {
+      "word": "Operate",
+      "translateWord": "Operar",
+      "thirdPerson": "operates",
+      "past": "operated",
+      "pastParticiple": "operated",
+      "gerund": "operating"
+    },
+    {
+      "word": "Order",
+      "translateWord": "Ordenar/Pedir",
+      "thirdPerson": "orders",
+      "past": "ordered",
+      "pastParticiple": "ordered",
+      "gerund": "ordering"
+    },
+    {
+      "word": "Pass",
+      "translateWord": "Pasar",
+      "thirdPerson": "passes",
+      "past": "passed",
+      "pastParticiple": "passed",
+      "gerund": "passing"
+    },
+    {
+      "word": "Pat",
+      "translateWord": "Acariciar",
+      "thirdPerson": "pats",
+      "past": "patted",
+      "pastParticiple": "patted",
+      "gerund": "patting"
+    },
+    {
+      "word": "Permit",
+      "translateWord": "Permitir",
+      "thirdPerson": "permits",
+      "past": "permitted",
+      "pastParticiple": "permitted",
+      "gerund": "permitting"
+    },
+    {
+      "word": "Place",
+      "translateWord": "Colocar",
+      "thirdPerson": "places",
+      "past": "placed",
+      "pastParticiple": "placed",
+      "gerund": "placing"
+    },
+    {
+      "word": "Plan",
+      "translateWord": "Planear",
+      "thirdPerson": "plans",
+      "past": "planned",
+      "pastParticiple": "planned",
+      "gerund": "planning"
+    },
+    {
+      "word": "Play",
+      "translateWord": "Jugar",
+      "thirdPerson": "plays",
+      "past": "played",
+      "pastParticiple": "played",
+      "gerund": "playing"
+    },
+    {
+      "word": "Plug",
+      "translateWord": "Enchufar",
+      "thirdPerson": "plugs",
+      "past": "plugged",
+      "pastParticiple": "plugged",
+      "gerund": "plugging"
+    },
+    {
+      "word": "Point",
+      "translateWord": "Apuntar",
+      "thirdPerson": "points",
+      "past": "pointed",
+      "pastParticiple": "pointed",
+      "gerund": "pointing"
+    },
+    {
+      "word": "Practice",
+      "translateWord": "Practicar",
+      "thirdPerson": "practices",
+      "past": "practiced",
+      "pastParticiple": "practiced",
+      "gerund": "practicing"
+    },
+    {
+      "word": "Pray",
+      "translateWord": "Rezar",
+      "thirdPerson": "prays",
+      "past": "prayed",
+      "pastParticiple": "prayed",
+      "gerund": "praying"
+    },
+    {
+      "word": "Prefer",
+      "translateWord": "Preferir",
+      "thirdPerson": "prefers",
+      "past": "preferred",
+      "pastParticiple": "preferred",
+      "gerund": "preferring"
+    },
+    {
+      "word": "Prepare",
+      "translateWord": "Preparar",
+      "thirdPerson": "prepares",
+      "past": "prepared",
+      "pastParticiple": "prepared",
+      "gerund": "preparing"
+    },
+    {
+      "word": "Prevent",
+      "translateWord": "Prevenir",
+      "thirdPerson": "prevents",
+      "past": "prevented",
+      "pastParticiple": "prevented",
+      "gerund": "preventing"
+    },
+    {
+      "word": "Proceed",
+      "translateWord": "Proceder",
+      "thirdPerson": "proceeds",
+      "past": "proceeded",
+      "pastParticiple": "proceeded",
+      "gerund": "proceeding"
+    },
+    {
+      "word": "Produce",
+      "translateWord": "Producir",
+      "thirdPerson": "produces",
+      "past": "produced",
+      "pastParticiple": "produced",
+      "gerund": "producing"
+    },
+    {
+      "word": "Program",
+      "translateWord": "Programar",
+      "thirdPerson": "programs",
+      "past": "programmed",
+      "pastParticiple": "programmed",
+      "gerund": "programming"
+    },
+    {
+      "word": "Pronounce",
+      "translateWord": "Pronunciar",
+      "thirdPerson": "pronounces",
+      "past": "pronounced",
+      "pastParticiple": "pronounced",
+      "gerund": "pronouncing"
+    },
+    {
+      "word": "Prove",
+      "translateWord": "Demostrar",
+      "thirdPerson": "proves",
+      "past": "proved",
+      "pastParticiple": "proven",
+      "gerund": "proving"
+    },
+    {
+      "word": "Pull",
+      "translateWord": "Jalar",
+      "thirdPerson": "pulls",
+      "past": "pulled",
+      "pastParticiple": "pulled",
+      "gerund": "pulling"
+    },
+    {
+      "word": "Push",
+      "translateWord": "Empujar",
+      "thirdPerson": "pushes",
+      "past": "pushed",
+      "pastParticiple": "pushed",
+      "gerund": "pushing"
+    },
+    {
+      "word": "Raise",
+      "translateWord": "Elevar",
+      "thirdPerson": "raises",
+      "past": "raised",
+      "pastParticiple": "raised",
+      "gerund": "raising"
+    },
+    {
+      "word": "Reach",
+      "translateWord": "Alcanzar",
+      "thirdPerson": "reaches",
+      "past": "reached",
+      "pastParticiple": "reached",
+      "gerund": "reaching"
+    },
+    {
+      "word": "React",
+      "translateWord": "Reaccionar",
+      "thirdPerson": "reacts",
+      "past": "reacted",
+      "pastParticiple": "reacted",
+      "gerund": "reacting"
+    },
+    {
+      "word": "Receive",
+      "translateWord": "Recibir",
+      "thirdPerson": "receives",
+      "past": "received",
+      "pastParticiple": "received",
+      "gerund": "receiving"
+    },
+    {
+      "word": "Recognize",
+      "translateWord": "Reconocer",
+      "thirdPerson": "recognizes",
+      "past": "recognized",
+      "pastParticiple": "recognized",
+      "gerund": "recognizing"
+    },
+    {
+      "word": "Reduce",
+      "translateWord": "Reducir",
+      "thirdPerson": "reduces",
+      "past": "reduced",
+      "pastParticiple": "reduced",
+      "gerund": "reducing"
+    },
+    {
+      "word": "Regret",
+      "translateWord": "Lamentar",
+      "thirdPerson": "regrets",
+      "past": "regretted",
+      "pastParticiple": "regretted",
+      "gerund": "regretting"
+    },
+    {
+      "word": "Remember",
+      "translateWord": "Recordar",
+      "thirdPerson": "remembers",
+      "past": "remembered",
+      "pastParticiple": "remembered",
+      "gerund": "remembering"
+    },
+    {
+      "word": "Rent",
+      "translateWord": "Rentar",
+      "thirdPerson": "rents",
+      "past": "rented",
+      "pastParticiple": "rented",
+      "gerund": "renting"
+    },
+    {
+      "word": "Report",
+      "translateWord": "Reportar",
+      "thirdPerson": "reports",
+      "past": "reported",
+      "pastParticiple": "reported",
+      "gerund": "reporting"
+    },
+    {
+      "word": "Represent",
+      "translateWord": "Representar",
+      "thirdPerson": "represents",
+      "past": "represented",
+      "pastParticiple": "represented",
+      "gerund": "representing"
+    },
+    {
+      "word": "Rescue",
+      "translateWord": "Rescatar",
+      "thirdPerson": "rescues",
+      "past": "rescued",
+      "pastParticiple": "rescued",
+      "gerund": "rescuing"
+    },
+    {
+      "word": "Rest",
+      "translateWord": "Descansar",
+      "thirdPerson": "rests",
+      "past": "rested",
+      "pastParticiple": "rested",
+      "gerund": "resting"
+    },
+    {
+      "word": "Return",
+      "translateWord": "Regresar",
+      "thirdPerson": "returns",
+      "past": "returned",
+      "pastParticiple": "returned",
+      "gerund": "returning"
+    },
+    {
+      "word": "Rob",
+      "translateWord": "Robar",
+      "thirdPerson": "robs",
+      "past": "robbed",
+      "pastParticiple": "robbed",
+      "gerund": "robbing"
+    },
+    {
+      "word": "Rub",
+      "translateWord": "Frotar",
+      "thirdPerson": "rubs",
+      "past": "rubbed",
+      "pastParticiple": "rubbed",
+      "gerund": "rubbing"
+    },
+    {
+      "word": "Save",
+      "translateWord": "Salvar/Ahorrar",
+      "thirdPerson": "saves",
+      "past": "saved",
+      "pastParticiple": "saved",
+      "gerund": "saving"
+    },
+    {
+      "word": "Scare",
+      "translateWord": "Asustar",
+      "thirdPerson": "scares",
+      "past": "scared",
+      "pastParticiple": "scared",
+      "gerund": "scaring"
+    },
+    {
+      "word": "Seem",
+      "translateWord": "Parecer",
+      "thirdPerson": "seems",
+      "past": "seemed",
+      "pastParticiple": "seemed",
+      "gerund": "seem"
+    },
+    {
+      "word": "Serve",
+      "translateWord": "Servir",
+      "thirdPerson": "serves",
+      "past": "served",
+      "pastParticiple": "served",
+      "gerund": "serving"
+    },
+    {
+      "word": "Shape",
+      "translateWord": "Moldear",
+      "thirdPerson": "shapes",
+      "past": "shaped",
+      "pastParticiple": "shaped",
+      "gerund": "shaping"
+    },
+    {
+      "word": "Shave",
+      "translateWord": "Rasurar",
+      "thirdPerson": "shaves",
+      "past": "shaved",
+      "pastParticiple": "shaved",
+      "gerund": "shaving"
+    },
+    {
+      "word": "Shop",
+      "translateWord": "Comprar",
+      "thirdPerson": "shops",
+      "past": "shopped",
+      "pastParticiple": "shopped",
+      "gerund": "shopping"
+    },
+    {
+      "word": "Shut",
+      "translateWord": "Cerrar",
+      "thirdPerson": "shuts",
+      "past": "shut",
+      "pastParticiple": "shut",
+      "gerund": "shutting"
+    },
+    {
+      "word": "Sign",
+      "translateWord": "Firmar",
+      "thirdPerson": "signs",
+      "past": "signed",
+      "pastParticiple": "signed",
+      "gerund": "signing"
+    },
+    {
+      "word": "Slip",
+      "translateWord": "Deslizar",
+      "thirdPerson": "slips",
+      "past": "slipped",
+      "pastParticiple": "slipped",
+      "gerund": "slipping"
+    },
+    {
+      "word": "Smell",
+      "translateWord": "Oler",
+      "thirdPerson": "smells",
+      "past": "smelled",
+      "pastParticiple": "smelled",
+      "gerund": "smelling"
+    },
+    {
+      "word": "Smile",
+      "translateWord": "Sonreír",
+      "thirdPerson": "smiles",
+      "past": "smiled",
+      "pastParticiple": "smiled",
+      "gerund": "smiling"
+    },
+    {
+      "word": "Smoke",
+      "translateWord": "Fumar",
+      "thirdPerson": "smokes",
+      "past": "smoked",
+      "pastParticiple": "smoked",
+      "gerund": "smoking"
+    },
+    {
+      "word": "Sound",
+      "translateWord": "Sonar",
+      "thirdPerson": "sounds",
+      "past": "sounded",
+      "pastParticiple": "sounded",
+      "gerund": "sounding"
+    },
+    {
+      "word": "Spell",
+      "translateWord": "Deletrear",
+      "thirdPerson": "spells",
+      "past": "spelled",
+      "pastParticiple": "spelled",
+      "gerund": "spelling"
+    },
+    {
+      "word": "Spill",
+      "translateWord": "Derramar",
+      "thirdPerson": "spills",
+      "past": "spilled",
+      "pastParticiple": "spilled",
+      "gerund": "spilling"
+    },
+    {
+      "word": "Stare",
+      "translateWord": "Mirar fijamente",
+      "thirdPerson": "stares",
+      "past": "stared",
+      "pastParticiple": "stared",
+      "gerund": "staring"
+    },
+    {
+      "word": "Start",
+      "translateWord": "Comenzar",
+      "thirdPerson": "starts",
+      "past": "started",
+      "pastParticiple": "started",
+      "gerund": "starting"
+    },
+    {
+      "word": "Stay",
+      "translateWord": "Quedarse",
+      "thirdPerson": "stays",
+      "past": "stayed",
+      "pastParticiple": "stayed",
+      "gerund": "staying"
+    },
+    {
+      "word": "Step",
+      "translateWord": "Pisar",
+      "thirdPerson": "steps",
+      "past": "stepped",
+      "pastParticiple": "stepped",
+      "gerund": "stepping"
+    },
+    {
+      "word": "Stop",
+      "translateWord": "Detener/Parar",
+      "thirdPerson": "stops",
+      "past": "stopped",
+      "pastParticiple": "stopped",
+      "gerund": "stopping"
+    },
+    {
+      "word": "Stroke",
+      "translateWord": "Acariciar",
+      "thirdPerson": "strokes",
+      "past": "stroked",
+      "pastParticiple": "stroked",
+      "gerund": "stroking"
+    },
+    {
+      "word": "Study",
+      "translateWord": "Estudiar",
+      "thirdPerson": "studies",
+      "past": "studied",
+      "pastParticiple": "studied",
+      "gerund": "studying"
+    },
+    {
+      "word": "Suggest",
+      "translateWord": "Sugerir",
+      "thirdPerson": "suggests",
+      "past": "suggested",
+      "pastParticiple": "suggested",
+      "gerund": "suggesting"
+    },
+    {
+      "word": "Support",
+      "translateWord": "Apoyar",
+      "thirdPerson": "supports",
+      "past": "supported",
+      "pastParticiple": "supported",
+      "gerund": "supporting"
+    },
+    {
+      "word": "Suppose",
+      "translateWord": "Suponer",
+      "thirdPerson": "supposes",
+      "past": "supposed",
+      "pastParticiple": "supposed",
+      "gerund": "supposing"
+    },
+    {
+      "word": "Surprise",
+      "translateWord": "Sorprender",
+      "thirdPerson": "surprises",
+      "past": "surprised",
+      "pastParticiple": "surprised",
+      "gerund": "surprising"
+    },
+    {
+      "word": "Sweat",
+      "translateWord": "Sudar",
+      "thirdPerson": "sweats",
+      "past": "sweat/sweated",
+      "pastParticiple": "sweat/sweated",
+      "gerund": "sweating"
+    },
+    {
+      "word": "Talk",
+      "translateWord": "Hablar",
+      "thirdPerson": "talks",
+      "past": "talked",
+      "pastParticiple": "talked",
+      "gerund": "talking"
+    },
+    {
+      "word": "Tie",
+      "translateWord": "Amarrar",
+      "thirdPerson": "ties",
+      "past": "tied",
+      "pastParticiple": "tied",
+      "gerund": "tying"
+    },
+    {
+      "word": "Travel",
+      "translateWord": "Viajar",
+      "thirdPerson": "travels",
+      "past": "traveled",
+      "pastParticiple": "traveled",
+      "gerund": "traveling"
+    },
+    {
+      "word": "Treat",
+      "translateWord": "Tratar/Convidar",
+      "thirdPerson": "treats",
+      "past": "treated",
+      "pastParticiple": "treated",
+      "gerund": "treating"
+    },
+    {
+      "word": "Try",
+      "translateWord": "Probar/Intentar",
+      "thirdPerson": "tries",
+      "past": "tried",
+      "pastParticiple": "tried",
+      "gerund": "trying"
+    },
+    {
+      "word": "Turn",
+      "translateWord": "Girar/Convertir",
+      "thirdPerson": "turns",
+      "past": "turned",
+      "pastParticiple": "turned",
+      "gerund": "turning"
+    },
+    {
+      "word": "Use",
+      "translateWord": "Usar",
+      "thirdPerson": "uses",
+      "past": "used",
+      "pastParticiple": "used",
+      "gerund": "using"
+    },
+    {
+      "word": "Visit",
+      "translateWord": "Visitar",
+      "thirdPerson": "visits",
+      "past": "visited",
+      "pastParticiple": "visited",
+      "gerund": "visiting"
+    },
+    {
+      "word": "Wait",
+      "translateWord": "Esperar",
+      "thirdPerson": "waits",
+      "past": "waited",
+      "pastParticiple": "waited",
+      "gerund": "waiting"
+    },
+    {
+      "word": "Walk",
+      "translateWord": "Caminar",
+      "thirdPerson": "walks",
+      "past": "walked",
+      "pastParticiple": "walked",
+      "gerund": "walking"
+    },
+    {
+      "word": "Want",
+      "translateWord": "Querer",
+      "thirdPerson": "wants",
+      "past": "wanted",
+      "pastParticiple": "wanted",
+      "gerund": "wanting"
+    },
+    {
+      "word": "Wash",
+      "translateWord": "Lavar",
+      "thirdPerson": "washes",
+      "past": "washed",
+      "pastParticiple": "washed",
+      "gerund": "washing"
+    },
+    {
+      "word": "Watch",
+      "translateWord": "Ver/Mirar",
+      "thirdPerson": "watches",
+      "past": "watched",
+      "pastParticiple": "watched",
+      "gerund": "watching"
+    },
+    {
+      "word": "Wish",
+      "translateWord": "Desear",
+      "thirdPerson": "wishes",
+      "past": "wished",
+      "pastParticiple": "wished",
+      "gerund": "wishing"
+    },
+    {
+      "word": "Work",
+      "translateWord": "Trabajar",
+      "thirdPerson": "works",
+      "past": "worked",
+      "pastParticiple": "worked",
+      "gerund": "working"
+    },
+    {
+      "word": "Worry",
+      "translateWord": "Preocupar",
+      "thirdPerson": "worries",
+      "past": "worried",
+      "pastParticiple": "worried",
+      "gerund": "worrying"
+    },
+    {
+      "word": "Wound",
+      "translateWord": "Herir/Lastimar",
+      "thirdPerson": "wounds",
+      "past": "wounded",
+      "pastParticiple": "wounded",
+      "gerund": "wounding"
+    },
+    {
+      "word": "Wrap",
+      "translateWord": "Envolver",
+      "thirdPerson": "wraps",
+      "past": "wrapped",
+      "pastParticiple": "wrapped",
+      "gerund": "wrapping"
+    }
+  ],
+  "irregular": [
+    {
+      "word": "Arise",
+      "translateWord": "Surgir",
+      "thirdPerson": "arises",
+      "past": "arose",
+      "pastParticiple": "arisen",
+      "gerund": "arising"
+    },
+    {
+      "word": "Be",
+      "translateWord": "Ser",
+      "thirdPerson": "is",
+      "past": "was",
+      "pastParticiple": "been",
+      "gerund": "being"
+    },
+    {
+      "word": "Bear",
+      "translateWord": "Soportar",
+      "thirdPerson": "bears",
+      "past": "bore",
+      "pastParticiple": "borne",
+      "gerund": "bearing"
+    },
+    {
+      "word": "Beat",
+      "translateWord": "Golpear",
+      "thirdPerson": "beats",
+      "past": "beat",
+      "pastParticiple": "beaten",
+      "gerund": "beating"
+    },
+    {
+      "word": "Become",
+      "translateWord": "Convertirse",
+      "thirdPerson": "becomes",
+      "past": "became",
+      "pastParticiple": "become",
+      "gerund": "becoming"
+    },
+    {
+      "word": "Begin",
+      "translateWord": "Comenzar",
+      "thirdPerson": "begins",
+      "past": "began",
+      "pastParticiple": "begun",
+      "gerund": "beginning"
+    },
+    {
+      "word": "Bend",
+      "translateWord": "Doblar",
+      "thirdPerson": "bends",
+      "past": "bent",
+      "pastParticiple": "bent",
+      "gerund": "bending"
+    },
+    {
+      "word": "Bet",
+      "translateWord": "Apostar",
+      "thirdPerson": "bets",
+      "past": "bet",
+      "pastParticiple": "bet",
+      "gerund": "betting"
+    },
+    {
+      "word": "Bib",
+      "translateWord": "Pujar",
+      "thirdPerson": "bibs",
+      "past": "bibbed",
+      "pastParticiple": "bibbed",
+      "gerund": "bibbing"
+    },
+    {
+      "word": "Bite",
+      "translateWord": "Morder",
+      "thirdPerson": "bites",
+      "past": "bit",
+      "pastParticiple": "bitten",
+      "gerund": "biting"
+    },
+    {
+      "word": "Bleed",
+      "translateWord": "Sangrar",
+      "thirdPerson": "bleeds",
+      "past": "bled",
+      "pastParticiple": "bled",
+      "gerund": "bleeding"
+    },
+    {
+      "word": "Blow",
+      "translateWord": "Soplar",
+      "thirdPerson": "blows",
+      "past": "blew",
+      "pastParticiple": "blown",
+      "gerund": "blowing"
+    },
+    {
+      "word": "Break",
+      "translateWord": "Romper",
+      "thirdPerson": "breaks",
+      "past": "broke",
+      "pastParticiple": "broken",
+      "gerund": "breaking"
+    },
+    {
+      "word": "Breed",
+      "translateWord": "Criar",
+      "thirdPerson": "breeds",
+      "past": "bred",
+      "pastParticiple": "bred",
+      "gerund": "breeding"
+    },
+    {
+      "word": "Bring",
+      "translateWord": "Traer",
+      "thirdPerson": "brings",
+      "past": "brought",
+      "pastParticiple": "brought",
+      "gerund": "bringing"
+    },
+    {
+      "word": "Build",
+      "translateWord": "Construir",
+      "thirdPerson": "builds",
+      "past": "built",
+      "pastParticiple": "built",
+      "gerund": "building"
+    },
+    {
+      "word": "Burst",
+      "translateWord": "Reventar/Estallar",
+      "thirdPerson": "bursts",
+      "past": "burst",
+      "pastParticiple": "burst",
+      "gerund": "bursting"
+    },
+    {
+      "word": "Buy",
+      "translateWord": "Comprar",
+      "thirdPerson": "buys",
+      "past": "bought",
+      "pastParticiple": "bought",
+      "gerund": "buy"
+    },
+    {
+      "word": "Cast",
+      "translateWord": "Tirar/Arrojar",
+      "thirdPerson": "casts",
+      "past": "cast",
+      "pastParticiple": "cast",
+      "gerund": "casting"
+    },
+    {
+      "word": "Catch",
+      "translateWord": "Cachar",
+      "thirdPerson": "catches",
+      "past": "caught",
+      "pastParticiple": "caught",
+      "gerund": "catching"
+    },
+    {
+      "word": "Choose",
+      "translateWord": "Escoger/Elegir",
+      "thirdPerson": "chooses",
+      "past": "chose",
+      "pastParticiple": "chosen",
+      "gerund": "choosing"
+    },
+    {
+      "word": "Cling",
+      "translateWord": "Aferrarse",
+      "thirdPerson": "clings",
+      "past": "clung",
+      "pastParticiple": "clung",
+      "gerund": "clinging"
+    },
+    {
+      "word": "Come",
+      "translateWord": "Venir",
+      "thirdPerson": "comes",
+      "past": "came",
+      "pastParticiple": "come",
+      "gerund": "coming"
+    },
+    {
+      "word": "Cost",
+      "translateWord": "Costar",
+      "thirdPerson": "costs",
+      "past": "cost",
+      "pastParticiple": "cost",
+      "gerund": "costing"
+    },
+    {
+      "word": "Creep",
+      "translateWord": "Arrastrar",
+      "thirdPerson": "creeps",
+      "past": "crept",
+      "pastParticiple": "crept",
+      "gerund": "creeping"
+    },
+    {
+      "word": "Cut",
+      "translateWord": "Cortar",
+      "thirdPerson": "cuts",
+      "past": "cut",
+      "pastParticiple": "cut",
+      "gerund": "cutting"
+    },
+    {
+      "word": "Dig",
+      "translateWord": "Excavar",
+      "thirdPerson": "digs",
+      "past": "dug",
+      "pastParticiple": "dug",
+      "gerund": "digging"
+    },
+    {
+      "word": "Do",
+      "translateWord": "Hacer",
+      "thirdPerson": "does",
+      "past": "did",
+      "pastParticiple": "done",
+      "gerund": "doing"
+    },
+    {
+      "word": "Draw",
+      "translateWord": "Dibujar",
+      "thirdPerson": "draws",
+      "past": "drew",
+      "pastParticiple": "drawn",
+      "gerund": "drawing"
+    },
+    {
+      "word": "Drink",
+      "translateWord": "Beber",
+      "thirdPerson": "drinks",
+      "past": "drank",
+      "pastParticiple": "drunk",
+      "gerund": "drinking"
+    },
+    {
+      "word": "Drive",
+      "translateWord": "Conducir",
+      "thirdPerson": "drives",
+      "past": "drove",
+      "pastParticiple": "driven",
+      "gerund": "driving"
+    },
+    {
+      "word": "Eat",
+      "translateWord": "Comer",
+      "thirdPerson": "eats",
+      "past": "ate",
+      "pastParticiple": "eaten",
+      "gerund": "eating"
+    },
+    {
+      "word": "Fall",
+      "translateWord": "Caer",
+      "thirdPerson": "falls",
+      "past": "fell",
+      "pastParticiple": "fallen",
+      "gerund": "falling"
+    },
+    {
+      "word": "Feed",
+      "translateWord": "Alimentar",
+      "thirdPerson": "feeds",
+      "past": "fed",
+      "pastParticiple": "fed",
+      "gerund": "feeding"
+    },
+    {
+      "word": "Feel",
+      "translateWord": "Sentir",
+      "thirdPerson": "feels",
+      "past": "felt",
+      "pastParticiple": "felt",
+      "gerund": "feeling"
+    },
+    {
+      "word": "Fight",
+      "translateWord": "Pelear",
+      "thirdPerson": "fights",
+      "past": "fought",
+      "pastParticiple": "fought",
+      "gerund": "fighting"
+    },
+    {
+      "word": "Find",
+      "translateWord": "Encontrar",
+      "thirdPerson": "finds",
+      "past": "found",
+      "pastParticiple": "found",
+      "gerund": "finding"
+    },
+    {
+      "word": "Flee",
+      "translateWord": "Huir",
+      "thirdPerson": "flees",
+      "past": "fled",
+      "pastParticiple": "fled",
+      "gerund": "fleeing"
+    },
+    {
+      "word": "Fly",
+      "translateWord": "Volar",
+      "thirdPerson": "flies",
+      "past": "flew",
+      "pastParticiple": "flown",
+      "gerund": "flying"
+    },
+    {
+      "word": "Forbid",
+      "translateWord": "Prohibir",
+      "thirdPerson": "forbids",
+      "past": "forbade",
+      "pastParticiple": "forbidden",
+      "gerund": "forbidding"
+    },
+    {
+      "word": "Forget",
+      "translateWord": "Olvidar",
+      "thirdPerson": "forgets",
+      "past": "forgot",
+      "pastParticiple": "forgotten",
+      "gerund": "forgetting"
+    },
+    {
+      "word": "Forgive",
+      "translateWord": "Perdonar",
+      "thirdPerson": "forgives",
+      "past": "forgave",
+      "pastParticiple": "forgiven",
+      "gerund": "forgiving"
+    },
+    {
+      "word": "Freeze",
+      "translateWord": "Helar",
+      "thirdPerson": "freezes",
+      "past": "froze",
+      "pastParticiple": "frozen",
+      "gerund": "freezing"
+    },
+    {
+      "word": "Get",
+      "translateWord": "Conseguir/Obtener",
+      "thirdPerson": "gets",
+      "past": "got",
+      "pastParticiple": "got/gotten",
+      "gerund": "getting"
+    },
+    {
+      "word": "Give",
+      "translateWord": "Dar",
+      "thirdPerson": "gives",
+      "past": "gave",
+      "pastParticiple": "given",
+      "gerund": "giving"
+    },
+    {
+      "word": "Go",
+      "translateWord": "Ir",
+      "thirdPerson": "goes",
+      "past": "went",
+      "pastParticiple": "gone",
+      "gerund": "going"
+    },
+    {
+      "word": "Grind",
+      "translateWord": "Moler",
+      "thirdPerson": "grinds",
+      "past": "ground",
+      "pastParticiple": "ground",
+      "gerund": "grinding"
+    },
+    {
+      "word": "Grow",
+      "translateWord": "Crecer",
+      "thirdPerson": "grows",
+      "past": "grew",
+      "pastParticiple": "grown",
+      "gerund": "growing"
+    },
+    {
+      "word": "Hang",
+      "translateWord": "Colgar",
+      "thirdPerson": "hangs",
+      "past": "hung",
+      "pastParticiple": "hung",
+      "gerund": "hanging"
+    },
+    {
+      "word": "Have",
+      "translateWord": "Tener",
+      "thirdPerson": "has",
+      "past": "had",
+      "pastParticiple": "had",
+      "gerund": "having"
+    },
+    {
+      "word": "Hear",
+      "translateWord": "Oír",
+      "thirdPerson": "hears",
+      "past": "heard",
+      "pastParticiple": "heard",
+      "gerund": "hearing"
+    },
+    {
+      "word": "Hide",
+      "translateWord": "Esconder/Ocultar",
+      "thirdPerson": "hides",
+      "past": "hid",
+      "pastParticiple": "hidden",
+      "gerund": "hiding"
+    },
+    {
+      "word": "Hit",
+      "translateWord": "Golpear",
+      "thirdPerson": "hits",
+      "past": "hit",
+      "pastParticiple": "hit",
+      "gerund": "hitting"
+    },
+    {
+      "word": "Hold",
+      "translateWord": "Sostener/Agarrar",
+      "thirdPerson": "holds",
+      "past": "held",
+      "pastParticiple": "held",
+      "gerund": "holding"
+    },
+    {
+      "word": "Hurt",
+      "translateWord": "Lastimar",
+      "thirdPerson": "hurts",
+      "past": "hurt",
+      "pastParticiple": "hurt",
+      "gerund": "hurting"
+    },
+    {
+      "word": "Keep",
+      "translateWord": "Guardar/Cumplir",
+      "thirdPerson": "keeps",
+      "past": "kept",
+      "pastParticiple": "kept",
+      "gerund": "keeping"
+    },
+    {
+      "word": "Kneel",
+      "translateWord": "Arrodillarse",
+      "thirdPerson": "kneels",
+      "past": "knelt/kneeled",
+      "pastParticiple": "knelt/kneeled",
+      "gerund": "kneeling"
+    },
+    {
+      "word": "Know",
+      "translateWord": "Saber",
+      "thirdPerson": "knows",
+      "past": "knew",
+      "pastParticiple": "known",
+      "gerund": "knowing"
+    },
+    {
+      "word": "Lead",
+      "translateWord": "Llevar",
+      "thirdPerson": "leads",
+      "past": "led",
+      "pastParticiple": "led",
+      "gerund": "leading"
+    },
+    {
+      "word": "Leave",
+      "translateWord": "Dejar",
+      "thirdPerson": "leaves",
+      "past": "left",
+      "pastParticiple": "left",
+      "gerund": "leaving"
+    },
+    {
+      "word": "Lend",
+      "translateWord": "Prestar",
+      "thirdPerson": "lends",
+      "past": "lent",
+      "pastParticiple": "lent",
+      "gerund": "lending"
+    },
+    {
+      "word": "Let",
+      "translateWord": "Permitir",
+      "thirdPerson": "lets",
+      "past": "let",
+      "pastParticiple": "let",
+      "gerund": "letting"
+    },
+    {
+      "word": "Lose",
+      "translateWord": "Perder",
+      "thirdPerson": "loses",
+      "past": "lost",
+      "pastParticiple": "lost",
+      "gerund": "losing"
+    },
+    {
+      "word": "Make",
+      "translateWord": "Hacer",
+      "thirdPerson": "Makes",
+      "past": "Made",
+      "pastParticiple": "Made",
+      "gerund": "Making"
+    },
+    {
+      "word": "Mean",
+      "translateWord": "Significar",
+      "thirdPerson": "Means",
+      "past": "Meant",
+      "pastParticiple": "Meant",
+      "gerund": "Meaning"
+    },
+    {
+      "word": "Meet",
+      "translateWord": "Conocer",
+      "thirdPerson": "Meets",
+      "past": "Met",
+      "pastParticiple": "Met",
+      "gerund": "Meeting"
+    },
+    {
+      "word": "Note",
+      "translateWord": "Notar",
+      "thirdPerson": "Notes",
+      "past": "Noted",
+      "pastParticiple": "Noted",
+      "gerund": "Noting"
+    },
+    {
+      "word": "Overcome",
+      "translateWord": "Vencer",
+      "thirdPerson": "Overcomes",
+      "past": "Overcame",
+      "pastParticiple": "Overcome",
+      "gerund": "Overcoming"
+    },
+    {
+      "word": "Oversleep",
+      "translateWord": "Dormir demasiado",
+      "thirdPerson": "Oversleeps",
+      "past": "Overslept",
+      "pastParticiple": "Overslept",
+      "gerund": "Oversleeping"
+    },
+    {
+      "word": "Overtake",
+      "translateWord": "Rebasar",
+      "thirdPerson": "Overtakes",
+      "past": "Overtook",
+      "pastParticiple": "Overtaken",
+      "gerund": "Overtaking"
+    },
+    {
+      "word": "Pay",
+      "translateWord": "Pagar",
+      "thirdPerson": "Pays",
+      "past": "Paid",
+      "pastParticiple": "Paid",
+      "gerund": "Paying"
+    },
+    {
+      "word": "Put",
+      "translateWord": "Poner",
+      "thirdPerson": "Puts",
+      "past": "Put",
+      "pastParticiple": "Put",
+      "gerund": "Putting"
+    },
+    {
+      "word": "Read",
+      "translateWord": "Leer",
+      "thirdPerson": "Reads",
+      "past": "Read",
+      "pastParticiple": "Read",
+      "gerund": "Reading"
+    },
+    {
+      "word": "Replay",
+      "translateWord": "Responder",
+      "thirdPerson": "Replays",
+      "past": "Replied",
+      "pastParticiple": "Replied",
+      "gerund": "Replying"
+    },
+    {
+      "word": "Ride",
+      "translateWord": "Montar",
+      "thirdPerson": "Rides",
+      "past": "Rode",
+      "pastParticiple": "Ridden",
+      "gerund": "Riding"
+    },
+    {
+      "word": "Ring",
+      "translateWord": "Sonar",
+      "thirdPerson": "Rings",
+      "past": "Rang",
+      "pastParticiple": "Rung",
+      "gerund": "Ringing"
+    },
+    {
+      "word": "Rise",
+      "translateWord": "Subir",
+      "thirdPerson": "Rises",
+      "past": "Rose",
+      "pastParticiple": "Risen",
+      "gerund": "Rising"
+    },
+    {
+      "word": "Run",
+      "translateWord": "Correr",
+      "thirdPerson": "Runs",
+      "past": "Ran",
+      "pastParticiple": "Run",
+      "gerund": "Running"
+    },
+    {
+      "word": "Say",
+      "translateWord": "Decir",
+      "thirdPerson": "Says",
+      "past": "Said",
+      "pastParticiple": "Said",
+      "gerund": "Saying"
+    },
+    {
+      "word": "See",
+      "translateWord": "Ver",
+      "thirdPerson": "Sees",
+      "past": "Saw",
+      "pastParticiple": "Seen",
+      "gerund": "Seeing"
+    },
+    {
+      "word": "Seek",
+      "translateWord": "Buscar",
+      "thirdPerson": "Seeks",
+      "past": "Sought",
+      "pastParticiple": "Sought",
+      "gerund": "Seeking"
+    },
+    {
+      "word": "Sell",
+      "translateWord": "Vender",
+      "thirdPerson": "Sells",
+      "past": "Sold",
+      "pastParticiple": "Sold",
+      "gerund": "Selling"
+    },
+    {
+      "word": "Send",
+      "translateWord": "Enviar",
+      "thirdPerson": "Sends",
+      "past": "Sent",
+      "pastParticiple": "Sent",
+      "gerund": "Sending"
+    },
+    {
+      "word": "Set",
+      "translateWord": "Poner/Colocar",
+      "thirdPerson": "sets",
+      "past": "set",
+      "pastParticiple": "set",
+      "gerund": "setting"
+    },
+    {
+      "word": "Sew",
+      "translateWord": "Coser",
+      "thirdPerson": "sews",
+      "past": "sewed",
+      "pastParticiple": "sewn",
+      "gerund": "sewing"
+    },
+    {
+      "word": "Shake",
+      "translateWord": "Sacudir",
+      "thirdPerson": "shakes",
+      "past": "shook",
+      "pastParticiple": "shaken",
+      "gerund": "shaking"
+    },
+    {
+      "word": "Shine",
+      "translateWord": "Brillar",
+      "thirdPerson": "shines",
+      "past": "shone",
+      "pastParticiple": "shone",
+      "gerund": "shining"
+    },
+    {
+      "word": "Shoot",
+      "translateWord": "Disparar",
+      "thirdPerson": "shoots",
+      "past": "shot",
+      "pastParticiple": "shot",
+      "gerund": "shooting"
+    },
+    {
+      "word": "Show",
+      "translateWord": "Mostrar",
+      "thirdPerson": "shows",
+      "past": "showed",
+      "pastParticiple": "shown",
+      "gerund": "showing"
+    },
+    {
+      "word": "Shrink",
+      "translateWord": "Encoger",
+      "thirdPerson": "shrinks",
+      "past": "shrank",
+      "pastParticiple": "shrunk",
+      "gerund": "shrinking"
+    },
+    {
+      "word": "Sing",
+      "translateWord": "Cantar",
+      "thirdPerson": "sings",
+      "past": "sang",
+      "pastParticiple": "sung",
+      "gerund": "singing"
+    },
+    {
+      "word": "Sit",
+      "translateWord": "Sentar",
+      "thirdPerson": "sits",
+      "past": "sat",
+      "pastParticiple": "sat",
+      "gerund": "sitting"
+    },
+    {
+      "word": "Sleep",
+      "translateWord": "Dormir",
+      "thirdPerson": "sleeps",
+      "past": "slept",
+      "pastParticiple": "slept",
+      "gerund": "sleeping"
+    },
+    {
+      "word": "Speak",
+      "translateWord": "Hablar",
+      "thirdPerson": "speaks",
+      "past": "spoke",
+      "pastParticiple": "spoken",
+      "gerund": "speaking"
+    },
+    {
+      "word": "Spend",
+      "translateWord": "Gastar",
+      "thirdPerson": "spends",
+      "past": "spent",
+      "pastParticiple": "spent",
+      "gerund": "spending"
+    },
+    {
+      "word": "Split",
+      "translateWord": "Dividir/Partir",
+      "thirdPerson": "splits",
+      "past": "split",
+      "pastParticiple": "split",
+      "gerund": "splitting"
+    },
+    {
+      "word": "Stand",
+      "translateWord": "Poner de pie",
+      "thirdPerson": "stands",
+      "past": "stood",
+      "pastParticiple": "stood",
+      "gerund": "standing"
+    },
+    {
+      "word": "Steal",
+      "translateWord": "Robar",
+      "thirdPerson": "steals",
+      "past": "stole",
+      "pastParticiple": "stolen",
+      "gerund": "stealing"
+    },
+    {
+      "word": "Stick",
+      "translateWord": "Pegar",
+      "thirdPerson": "sticks",
+      "past": "stuck",
+      "pastParticiple": "stuck",
+      "gerund": "sticking"
+    },
+    {
+      "word": "Sting",
+      "translateWord": "Picar (insecto)",
+      "thirdPerson": "stings",
+      "past": "stung",
+      "pastParticiple": "stung",
+      "gerund": "stinging"
+    },
+    {
+      "word": "Stink",
+      "translateWord": "Apestar",
+      "thirdPerson": "stinks",
+      "past": "stank",
+      "pastParticiple": "stunk",
+      "gerund": "stinking"
+    },
+    {
+      "word": "Strike",
+      "translateWord": "Golpear",
+      "thirdPerson": "strikes",
+      "past": "struck",
+      "pastParticiple": "struck",
+      "gerund": "striking"
+    },
+    {
+      "word": "Swear",
+      "translateWord": "Jurar",
+      "thirdPerson": "swears",
+      "past": "swore",
+      "pastParticiple": "sworn",
+      "gerund": "swearing"
+    },
+    {
+      "word": "Sweep",
+      "translateWord": "Barrer",
+      "thirdPerson": "sweeps",
+      "past": "swept",
+      "pastParticiple": "swept",
+      "gerund": "sweeping"
+    },
+    {
+      "word": "Swim",
+      "translateWord": "Nadar",
+      "thirdPerson": "swims",
+      "past": "swam",
+      "pastParticiple": "swum",
+      "gerund": "swimming"
+    },
+    {
+      "word": "Swing",
+      "translateWord": "Columpiar/Balancear",
+      "thirdPerson": "swings",
+      "past": "swung",
+      "pastParticiple": "swung",
+      "gerund": "swinging"
+    },
+    {
+      "word": "Take",
+      "translateWord": "Tomar/Llevarse",
+      "thirdPerson": "takes",
+      "past": "took",
+      "pastParticiple": "taken",
+      "gerund": "taking"
+    },
+    {
+      "word": "Teach",
+      "translateWord": "Enseñar",
+      "thirdPerson": "teaches",
+      "past": "taught",
+      "pastParticiple": "taught",
+      "gerund": "teaching"
+    },
+    {
+      "word": "Tear",
+      "translateWord": "Romper/Rasgar",
+      "thirdPerson": "tears",
+      "past": "tore",
+      "pastParticiple": "torn",
+      "gerund": "tearing"
+    },
+    {
+      "word": "Tell",
+      "translateWord": "Decir",
+      "thirdPerson": "tells",
+      "past": "told",
+      "pastParticiple": "told",
+      "gerund": "telling"
+    },
+    {
+      "word": "Think",
+      "translateWord": "Pensar",
+      "thirdPerson": "thinks",
+      "past": "thought",
+      "pastParticiple": "thought",
+      "gerund": "thinking"
+    },
+    {
+      "word": "Throw",
+      "translateWord": "Lanzar",
+      "thirdPerson": "throws",
+      "past": "threw",
+      "pastParticiple": "thrown",
+      "gerund": "throwing"
+    },
+    {
+      "word": "Undergo",
+      "translateWord": "Sufrir",
+      "thirdPerson": "undergoes",
+      "past": "underwent",
+      "pastParticiple": "undergone",
+      "gerund": "undergoing"
+    },
+    {
+      "word": "Understand",
+      "translateWord": "Comprender/Entender",
+      "thirdPerson": "understands",
+      "past": "understood",
+      "pastParticiple": "understood",
+      "gerund": "understanding"
+    },
+    {
+      "word": "Wake",
+      "translateWord": "Despertar",
+      "thirdPerson": "wakes",
+      "past": "woke",
+      "pastParticiple": "woken",
+      "gerund": "waking"
+    },
+    {
+      "word": "Wear",
+      "translateWord": "Calzar/Vestir",
+      "thirdPerson": "wears",
+      "past": "wore",
+      "pastParticiple": "worn",
+      "gerund": "wearing"
+    },
+    {
+      "word": "Win",
+      "translateWord": "Ganar",
+      "thirdPerson": "wins",
+      "past": "won",
+      "pastParticiple": "won",
+      "gerund": "winning"
+    },
+    {
+      "word": "Wind",
+      "translateWord": "Dar cuenta",
+      "thirdPerson": "winds",
+      "past": "wound",
+      "pastParticiple": "wound",
+      "gerund": "winding"
+    },
+    {
+      "word": "Write",
+      "translateWord": "Escribir",
+      "thirdPerson": "writes",
+      "past": "wrote",
+      "pastParticiple": "written",
+      "gerund": "writing"
+    }      
+  ]
+}
