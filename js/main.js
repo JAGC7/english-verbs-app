@@ -10,6 +10,9 @@ const RUTA_JSON = '../data/verbs.json';
 /**
  * Función principal para asignar eventos a los botones de categorías
  */
+/**
+ * Función principal para asignar eventos a los botones de categorías
+ */
 async function asignarEventoVerbo(idBtn, grupo, key, langVoz) {
     const boton = document.getElementById(idBtn);
     if (!boton) return;
@@ -19,10 +22,13 @@ async function asignarEventoVerbo(idBtn, grupo, key, langVoz) {
         if (!confirm(`¿Deseas cargar la lista de: ${nombreLimpio}?`)) return;
 
         try {
+            // --- CAMBIO AQUÍ: Usamos fetch en lugar de import dinámico ---
             if (!baseDeDatosVerbos) {
-                const modulo = await import(RUTA_JSON, { assert: { type: 'json' } });
-                baseDeDatosVerbos = modulo.default;
+                const respuesta = await fetch(RUTA_JSON);
+                if (!respuesta.ok) throw new Error(`No se pudo cargar: ${respuesta.statusText}`);
+                baseDeDatosVerbos = await respuesta.json();
             }
+            // ----------------------------------------------------------
 
             const mainContent = document.getElementById('main-content');
             mainContent.innerHTML = ""; 
@@ -32,24 +38,24 @@ async function asignarEventoVerbo(idBtn, grupo, key, langVoz) {
             tituloFijo.innerHTML = `<span>📖</span> ${nombreLimpio}`;
             mainContent.appendChild(tituloFijo);
 
+            // Verificamos que el grupo exista en el JSON para evitar errores
+            if (!baseDeDatosVerbos[grupo]) {
+                console.error(`El grupo ${grupo} no existe en el JSON`);
+                return;
+            }
+
             const lista = barajarLista(baseDeDatosVerbos[grupo]);
 
             lista.forEach((verbo, index) => {
-                
-                // --- LÓGICA DE FILTRADO ---
                 let loQueSeEscucha = verbo[key];
                 let loQueSeEscribe = verbo[key];
 
-                // Solo intercambiamos si la columna es 'word' o 'translateWord'
                 if (key === 'word') {
-                    // Escuchas inglés -> Escribes español
                     loQueSeEscribe = verbo['translateWord'];
                 } 
                 else if (key === 'translateWord') {
-                    // Escuchas español -> Escribes inglés
                     loQueSeEscribe = verbo['word'];
                 }
-                // Si la 'key' es past, gerund, etc., los valores se quedan iguales.
 
                 const container = document.createElement('div');
                 container.className = 'verb-input-group';
@@ -89,7 +95,8 @@ async function asignarEventoVerbo(idBtn, grupo, key, langVoz) {
             });
 
         } catch (error) {
-            console.error("Error:", error);
+            console.error("Error detallado:", error);
+            alert("Hubo un error al cargar los datos. Revisa la consola.");
         }
     });
 }
